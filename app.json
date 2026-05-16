@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "PiyuGuide",
+    "slug": "piyuguide-mobile",
+    "scheme": "piyuguide",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.piyuguide.mobile",
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "MODIFY_AUDIO_SETTINGS",
+        "ACCESS_NETWORK_STATE",
+        "INTERNET"
+      ]
+    },
+    "plugins": [
+      [
+        "expo-dev-client",
+        {
+          "launchMode": "most-recent"
+        }
+      ]
+    ],
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c967f8db-eb98-4e26-8615-155fbb3544f7"
+      }
+    }
+  }
+}
