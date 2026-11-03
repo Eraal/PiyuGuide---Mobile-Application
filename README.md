@@ -37,8 +37,6 @@ It connects to the same Flask backend used by the PiyuGuide web platform. That b
 
 ## 🖼️ Screenshots / Demo
 
-Replace the placeholder paths below with exported screenshots or a demo recording.
-
 | Welcome & campus selection | Inquiry inbox | Chat with an office |
 |---|---|---|
 | ![Welcome screen](/assets/screenshots/welcome.png) | ![Inquiry list](/assets/screenshots/inquiries.png) | ![Chat screen](/assets/screenshots/chat.png) |
